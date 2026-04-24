@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora IRPF y Sueldo Neto Histórico",
+  "description": "Calculadora detallada de sueldo neto en España (2012-2026) con ajustes por inflación (IPC), cuotas de la Seguridad Social y deducciones del IRPF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
